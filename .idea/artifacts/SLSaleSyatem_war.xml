@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SLSaleSyatem:war">
+    <output-path>$PROJECT_DIR$/SLSaleSyatem/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SLSaleSyatem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SLSaleSyatem.war">
+      <element id="artifact" artifact-name="SLSaleSyatem:war exploded" />
+    </root>
+  </artifact>
+</component>

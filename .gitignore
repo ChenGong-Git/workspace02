@@ -1,0 +1,3 @@
+# Project exclude paths
+/SLSaleSyatem/src/main/webapp/WEB-INF/classes/
+/SLSaleSyatem/target/
